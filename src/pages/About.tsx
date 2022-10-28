@@ -2,12 +2,12 @@
 // import logo from './logo.svg';
 // import './App.css';
 
-function Home() {
+function About() {
   return (
     <div className="App">
-      <h2>Home</h2>
+      <h2>About</h2>
     </div>
   );
 }
 
-export default Home;
+export default About;
